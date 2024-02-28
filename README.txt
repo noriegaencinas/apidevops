@@ -55,5 +55,5 @@ Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/co
 ## Más informacion
 
 Echo por Luis Noriega.
-Se elimino la ultima linea
+Se elimino la ultima  linea
 
